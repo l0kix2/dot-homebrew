@@ -1,0 +1,16 @@
+ack
+# https://github.com/kennethreitz/autoenv
+autoenv
+# https://github.com/joelthelion/autojump
+autojump
+brew-cask
+# http://en.wikipedia.org/wiki/MTR_(software)
+mtr
+node
+openssl
+python
+tmux
+tree
+watch
+wget
+zsh
