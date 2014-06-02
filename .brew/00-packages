@@ -8,7 +8,7 @@ brew-cask
 mtr
 node
 openssl
-python
+pyenv
 tmux
 tree
 watch
