@@ -9,6 +9,7 @@ mtr
 node
 openssl
 pyenv
+pyenv-virtualenvwrapper
 tmux
 tree
 watch
