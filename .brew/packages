@@ -11,6 +11,7 @@ openssl
 pyenv
 pyenv-virtualenvwrapper
 tmux
+trash
 tree
 watch
 wget
