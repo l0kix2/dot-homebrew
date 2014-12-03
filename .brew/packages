@@ -12,6 +12,7 @@ node
 openssl
 pyenv
 pyenv-virtualenvwrapper
+ssh-copy-id
 tmux
 trash
 tree
