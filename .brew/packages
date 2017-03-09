@@ -5,6 +5,7 @@ autoenv
 autojump
 brew-cask
 # graphviz
+gettext
 # http://en.wikipedia.org/wiki/MTR_(software)
 mtr
 # mysql
