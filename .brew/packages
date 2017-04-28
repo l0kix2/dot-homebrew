@@ -1,21 +1,21 @@
-ack
+# ack
 # https://github.com/kennethreitz/autoenv
 autoenv
 # https://github.com/joelthelion/autojump
 autojump
-brew-cask
+# brew-cask
 # graphviz
 gettext
 # http://en.wikipedia.org/wiki/MTR_(software)
 mtr
 # mysql
-node
+# node
 openssl
 pyenv
 pyenv-virtualenvwrapper
 ssh-copy-id
 tmux
-trash
+# trash
 tree
 watch
 wget
