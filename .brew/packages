@@ -3,6 +3,8 @@
 autoenv
 # https://github.com/joelthelion/autojump
 autojump
+# https://direnv.net/
+direnv
 # brew-cask
 # graphviz
 gettext
