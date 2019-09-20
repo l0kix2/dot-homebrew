@@ -16,6 +16,7 @@ openssl
 pyenv
 pyenv-virtualenvwrapper
 ssh-copy-id
+telnet
 tmux
 # trash
 tree
