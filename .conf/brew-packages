@@ -3,6 +3,8 @@
 autoenv
 # https://github.com/joelthelion/autojump
 autojump
+# realpath
+coreutils
 # https://direnv.net/
 direnv
 # brew-cask
@@ -17,6 +19,7 @@ pyenv
 pyenv-virtualenvwrapper
 ssh-copy-id
 telnet
+terraform
 tmux
 # trash
 tree
